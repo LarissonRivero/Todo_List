@@ -6,8 +6,8 @@ function App() {
 
   return (
     <>
-      <div>
-        <h1>React App</h1>
+      <div className="app">
+        <h1>Todo List</h1>
           < Task />
       </div>
     </>
